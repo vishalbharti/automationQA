@@ -1,0 +1,10 @@
+#IDE specific
+.project
+.classpath
+.settings/*
+
+#Gradle specific
+.gradle/*
+build/*
+bin/*
+gradle/*
